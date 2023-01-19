@@ -1,1 +1,2 @@
-# mir
+# mir 
+what is GIT ??!
